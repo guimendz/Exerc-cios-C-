@@ -1,4 +1,4 @@
-Lista de Exercícios - C#
+Exercícios - C#
 
 Exercícios desenvolvidos em C# para a disciplina de Programação Orientada a Objetos.
 
